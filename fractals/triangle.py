@@ -2,7 +2,7 @@ import graphics
 import random
 
 win = graphics.GraphWin("Window", 400, 400)
-
+# this is a test
 point_ax = 200
 point_ay = 0
 point_bx = 400
